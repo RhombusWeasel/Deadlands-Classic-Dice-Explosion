@@ -6,6 +6,9 @@
     "version": "0.0.1",
     "minimumCoreVersion": "0.6.0",
     "compatibleCoreVersion": "0.7.6",
-    "scripts": ["scripts/dice-roller.js"]
+    "scripts": ["scripts/dice-roller.js"],
+    "url": "https://github.com/RhombusWeasel/Deadlands-Classic-Dice-Explosion",
+    "manifest": "https://raw.githubusercontent.com/RhombusWeasel/Deadlands-Classic-Dice-Explosion/blob/main/module.json",
+    "download": "https://github.com/RhombusWeasel/Deadlands-Classic-Dice-Explosion/archive/dcde.zip"
   }
   
