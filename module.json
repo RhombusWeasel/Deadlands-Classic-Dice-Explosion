@@ -1,0 +1,11 @@
+{
+    "name": "deadlands-classic",
+    "title": "Deadlands Classic Dice Explosion!",
+    "description": "<p>Adds Deadlands Classic Dice explosions as a standard modifier /r 3d6ex + 2</p>",
+    "author": "rhombusweasel",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.6.0",
+    "compatibleCoreVersion": "0.7.6",
+    "scripts": ["scripts/dice-roller.js"]
+  }
+  
